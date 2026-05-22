@@ -39,13 +39,15 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=whoisrosea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisrosea&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SvKarb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvKarb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SvKarb&theme=tokyonight" />
 </div>
